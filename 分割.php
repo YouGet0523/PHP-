@@ -11,7 +11,7 @@
 <body>
     <form action="#" method="post">
         <div>根据<input type="text" name="zf1" style="width: 20px;">分割字符串</div>
-        <input type="text" name="wb1">
+        <textarea name="wb1" id="" cols="30" rows="10" placeholder="内容"></textarea>
         <input type="submit"  value="分割">
         <div id="fg1"></div>
     </form>
